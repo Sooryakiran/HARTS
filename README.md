@@ -11,6 +11,11 @@ The above code can be used to generate optimal hardware architectures for predic
 example on the MNIST dataset. We were able to achieve a testing accuracy of 57% using just 5 layers of logic gates. The fact that such a search 
 converges makes me happy :)
 
+### Training loss
+![Training Loss](loss.png?raw=true "Training Loss")
+### Training accuracy
+![Training Accuracy](accuracy.png?raw=true "Training Accuracy")
+
 # TODO
   1. HDL generation from the trained networks
   2. Branch prediction for processor pipelining
