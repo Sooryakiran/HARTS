@@ -4,7 +4,7 @@ The search space is discrete, but we make it continious by taking choices based 
 The weights can be trained using back propagation. A possible hardware architecture / arrangement of logic gates can be obtained by going greedy 
 on the optimised weights.
 
-DISCLAIMER : This is not a Binary Neural Network. This can be considered rather as an 'neural architecture search'.
+DISCLAIMER : This is not a Binary Neural Network. This can be considered rather as an 'architecture search'.
 
 # Classification of MNIST using logic gates
 The above code can be used to generate optimal hardware architectures for prediction tasks. Here we present an 
