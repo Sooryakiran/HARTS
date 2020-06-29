@@ -8,7 +8,7 @@ DISCLAIMER : This is not a Binary Neural Network. This can be considered rather 
 
 # Classification of MNIST using logic gates
 The above code can be used to generate optimal hardware architectures for prediction tasks. Here we present an 
-example on the MNIST dataset. We were able to achieve a training accuracy of 60% using just 5 layers of logic gates. The fact that such a search 
+example on the MNIST dataset. We were able to achieve a testing accuracy of 57% using just 5 layers of logic gates. The fact that such a search 
 converges makes me happy :)
 
 # TODO
