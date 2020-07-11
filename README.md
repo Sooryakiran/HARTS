@@ -18,4 +18,3 @@ converges makes me happy :)
 
 # TODO
   1. HDL generation from the trained networks
-  2. Branch prediction for processor pipelining
