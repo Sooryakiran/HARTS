@@ -12,9 +12,9 @@ example on the MNIST dataset. We were able to achieve a testing accuracy of 73% 
 converges makes me happy :)
 
 ### Training loss
-![Training Loss](loss.png?raw=true "Training Loss")
+![Training Loss](images/loss_plot.png?raw=true "Training Loss")
 ### Training accuracy
-![Training Accuracy](accuracy.png?raw=true "Training Accuracy")
+![Training Accuracy](images/acc_plot.png?raw=true "Training Accuracy")
 
 # TODO
   1. HDL generation from the trained networks
